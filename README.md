@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noran Zaki</h1>
 <h3 align="center">A passionate software engineering student from Egypt</h3>
 
-- 🔭 I’m Senior **at Faculty of Computers & Information Ain Shams University**
+- 🔭 I’m Senior **at Faculty of Computers & Information Sciences Ain Shams University**
 
 - 🌱 I’m currently learning **Mobile Development**
 
